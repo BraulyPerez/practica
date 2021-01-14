@@ -11,6 +11,7 @@
   <li><a href="indice.html">Página principal</a>
   <li><a href="meditaciones.html">Meditaciones</a>
   <li><a href="ciudad.html">Mi ciudad</a>
+  <li><a href="sector.html">Mi sector</a>
   <li><a href="enlaces.html">Enlaces</a>
 </ul>
 
