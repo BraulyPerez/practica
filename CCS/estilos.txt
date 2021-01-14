@@ -2,4 +2,5 @@
   body {
     color: purple;
     background-color: #d8da3d }
+    <h1 style="color:blue;">A Blue Heading</h1>
   </style>
